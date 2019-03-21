@@ -145,8 +145,8 @@ const history = [
     year: 1891
   },
   {
-    event: "First radio was installed in the Whitehouse.",
-    year: 1922
+    event: "First radio contest.",
+    year: 1910
   },
   {
     event:
