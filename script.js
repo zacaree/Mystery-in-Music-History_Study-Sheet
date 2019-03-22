@@ -149,6 +149,14 @@ const history = [
     year: 1910
   },
   {
+    event: "The game of basketball was invented by James Naismith.",
+    year: 1891
+  },
+  {
+    event: "Henry Ford constructed his first self-propelled vehicle, the Ford Quadricycle.",
+    year: 1896
+  },
+  {
     event:
       "President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾",
     year: 1910
