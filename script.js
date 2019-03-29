@@ -1,18 +1,18 @@
 const history = [
   {
-    event: "The Declaration of Independence is signed",
+    event: "The Declaration of Independence is signed.",
     year: 1776
   },
   {
-    event: "Thomas Jefferson becomes President of the United States",
+    event: "Thomas Jefferson becomes President of the United States.",
     year: 1801
   },
   {
-    event: "Abraham Lincoln becomes President of the United States",
+    event: "Abraham Lincoln becomes President of the United States.",
     year: 1860
   },
   {
-    event: "American Civil War begins",
+    event: "American Civil War begins.",
     year: 1861
   },
   {
@@ -20,23 +20,23 @@ const history = [
     year: 1879
   },
   {
-    event: "Napolean invades Great Britain",
+    event: "Napolean invades Great Britain.",
     year: 1797
   },
   {
-    event: "Benjamin Franklin is born 🌩️",
+    event: "Benjamin Franklin is born. 🌩️",
     year: 1706
   },
   {
-    event: "Queen Victoria died",
+    event: "Queen Victoria died.",
     year: 1901
   },
   {
-    event: "Winston Churchill gives his maiden speech at the House of Commons (age 25)",
+    event: "Winston Churchill gives his maiden speech at the House of Commons. (age 25)",
     year: 1901
   },
   {
-    event: "Coronation of Queen Victoria 👑",
+    event: "Coronation of Queen Victoria. 👑",
     year: 1838
   },
   {
@@ -52,7 +52,7 @@ const history = [
     year: 1887
   },
   {
-    event: "Construction began on the Panama Canal 🛳️",
+    event: "Construction began on the Panama Canal. 🛳️",
     year: 1880
   },
   {
@@ -60,7 +60,7 @@ const history = [
     year: 1880
   },
   {
-    event: "The Seven Years' War began",
+    event: "The Seven Years' War began.",
     year: 1756
   },
   {
@@ -116,7 +116,7 @@ const history = [
     year: 1913
   },
   {
-    event: "Empire State Building opens.",
+    event: "Empire State Building opens. ",
     year: 1931
   },
   {
@@ -149,12 +149,36 @@ const history = [
     year: 1910
   },
   {
-    event: "The game of basketball was invented by James Naismith.",
+    event: "The game of basketball was invented by James Naismith. 🏀",
     year: 1891
   },
   {
     event: "Henry Ford constructed his first self-propelled vehicle, the Ford Quadricycle.",
     year: 1896
+  },
+  {
+    event: "Electricity is made available in homes. ⚡",
+    year: 1878
+  },
+  {
+    event: "California cable car service began. 🚋",
+    year: 1878
+  },
+  {
+    event: "Tolkien's, The Hobbit is published in London.",
+    year: 1937
+  },
+  {
+    event: "The Hindenburg disaster occurs in New Jersey.",
+    year: 1937
+  },
+  {
+    event: "King George VI is crowned in London.",
+    year: 1937
+  },
+  {
+    event: "Gone with the Wind, the novel is published.",
+    year: 1936
   },
   {
     event:
