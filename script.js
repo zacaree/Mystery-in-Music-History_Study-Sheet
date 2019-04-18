@@ -181,6 +181,10 @@ const history = [
     year: 1936
   },
   {
+    event: "The New York Stock Exchange was founded.",
+    year: 1817
+  },
+  {
     event:
       "President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾",
     year: 1910
