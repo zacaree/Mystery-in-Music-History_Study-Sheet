@@ -185,6 +185,10 @@ const history = [
     year: 1817
   },
   {
+    event: "First ocean liner made of steel. People thought it would sink. 🛳️",
+    year: 1879
+  },
+  {
     event:
       "President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾",
     year: 1910
