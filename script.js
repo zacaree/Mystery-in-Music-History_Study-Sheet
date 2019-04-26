@@ -194,6 +194,15 @@ const history = [
   },
   {
     event:
+      'Thomas Jefferson sends Lewis and Clark off on their expedition across the newly purchased Louisanna Territory.',
+    year: 1804
+  },
+  {
+    event: 'Aaron Burr mortally wounds Alexander Hamilton in a pistol duel.',
+    year: 1804
+  },
+  {
+    event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
   }
