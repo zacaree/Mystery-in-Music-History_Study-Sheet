@@ -202,6 +202,10 @@ const history = [
     year: 1804
   },
   {
+    event: 'Samuel Morse develops Morse Code.',
+    year: 1844
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
