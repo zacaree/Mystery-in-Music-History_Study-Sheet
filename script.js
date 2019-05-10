@@ -206,6 +206,14 @@ const history = [
     year: 1844
   },
   {
+    event: 'Samuel Morse develops Morse Code.',
+    year: 1844
+  },
+  {
+    event: 'The Brooklyn Bridge opens after 13 years of construction.',
+    year: 1883
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
