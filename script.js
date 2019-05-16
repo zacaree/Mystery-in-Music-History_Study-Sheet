@@ -206,12 +206,12 @@ const history = [
     year: 1844
   },
   {
-    event: 'Samuel Morse develops Morse Code.',
-    year: 1844
-  },
-  {
     event: 'The Brooklyn Bridge opens after 13 years of construction.',
     year: 1883
+  },
+  {
+    event: 'Amelia Earhart flys Solo from Hawaii to California.',
+    year: 1935
   },
   {
     event:
