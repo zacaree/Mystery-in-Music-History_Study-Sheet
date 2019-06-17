@@ -214,6 +214,10 @@ const history = [
     year: 1935
   },
   {
+    event: 'Yellowstone is designated the 1st national park in the USA.',
+    year: 1872
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
