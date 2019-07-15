@@ -226,6 +226,18 @@ const history = [
     year: 1786
   },
   {
+    event: `Amazing Grace first used in a sermon - Buckingham England.`,
+    year: 1773
+  },
+  {
+    event: `Captain Cook, first European explorer to cross into the Antarctic circle.`,
+    year: 1773
+  },
+  {
+    event: `Parliament passed the Tea Act, triggering the Boston Tea Party.`,
+    year: 1773
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
