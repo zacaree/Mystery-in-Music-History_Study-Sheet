@@ -214,8 +214,8 @@ const history = [
     year: 1883
   },
   {
-    event: 'Amelia Earhart flys Solo from Hawaii to California.',
-    year: 1935
+    event: 'Amelia Earhart dissapears...',
+    year: 1937
   },
   {
     event: 'Yellowstone is designated the 1st national park in the USA.',
