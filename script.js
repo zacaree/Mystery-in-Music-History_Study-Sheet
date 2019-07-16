@@ -214,7 +214,7 @@ const history = [
     year: 1883
   },
   {
-    event: 'Amelia Earhart dissapears...',
+    event: 'Amelia Earhart dissapears after taking off from New Guinea.',
     year: 1937
   },
   {
