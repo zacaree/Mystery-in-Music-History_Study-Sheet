@@ -238,6 +238,10 @@ const history = [
     year: 1773
   },
   {
+    event: `Grover Cleveland dedicates the Statue of Liberty.`,
+    year: 1886
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
