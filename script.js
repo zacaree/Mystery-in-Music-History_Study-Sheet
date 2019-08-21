@@ -242,6 +242,10 @@ const history = [
     year: 1886
   },
   {
+    event: `1st practically used bicycle invented by Baron Karl von Drais in Germany.`,
+    year: 1817
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
