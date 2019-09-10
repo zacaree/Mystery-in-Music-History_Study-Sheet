@@ -246,6 +246,10 @@ const history = [
     year: 1817
   },
   {
+    event: `Edison invented the phonograph.`,
+    year: 1877
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
