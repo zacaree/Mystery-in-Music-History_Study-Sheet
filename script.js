@@ -250,6 +250,10 @@ const history = [
     year: 1877
   },
   {
+    event: `U.S. public debt drops to 0 for the only time in history.`,
+    year: 1835
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
