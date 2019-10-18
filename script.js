@@ -32,7 +32,8 @@ const history = [
     year: 1901
   },
   {
-    event: 'Winston Churchill gives his maiden speech at the House of Commons. (age 25)',
+    event:
+      'Winston Churchill gives his maiden speech at the House of Commons. (age 25)',
     year: 1901
   },
   {
@@ -52,7 +53,8 @@ const history = [
     year: 1887
   },
   {
-    event: 'Thomas Stevens, 1st man to bicycle around the world. Begins and ends in SF. 🌉',
+    event:
+      'Thomas Stevens, 1st man to bicycle around the world. Begins and ends in SF. 🌉',
     year: 1887
   },
   {
@@ -84,7 +86,8 @@ const history = [
     year: 1885
   },
   {
-    event: 'Eastman film company (Kodak) manufactures their first motion picture movie. 🎥',
+    event:
+      'Eastman film company (Kodak) manufactures their first motion picture movie. 🎥',
     year: 1885
   },
   {
@@ -145,7 +148,8 @@ const history = [
     year: 1812
   },
   {
-    event: 'Stanford University is founded by railroad tychoon Leeland Stanford.',
+    event:
+      'Stanford University is founded by railroad tychoon Leeland Stanford.',
     year: 1891
   },
   {
@@ -157,7 +161,8 @@ const history = [
     year: 1891
   },
   {
-    event: 'Henry Ford constructed his first self-propelled vehicle, the Ford Quadricycle.',
+    event:
+      'Henry Ford constructed his first self-propelled vehicle, the Ford Quadricycle.',
     year: 1896
   },
   {
@@ -252,6 +257,14 @@ const history = [
   {
     event: `U.S. public debt drops to 0 for the only time in history.`,
     year: 1835
+  },
+  {
+    event: `Tale of Two Cities was published by Charles Dickens.`,
+    year: 1859
+  },
+  {
+    event: `Ground was broken on the Suez Canal in Egypt.`,
+    year: 1859
   },
   {
     event:
