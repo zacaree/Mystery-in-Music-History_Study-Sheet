@@ -267,7 +267,7 @@ const history = [
     year: 1859
   },
   {
-    event: `Eli Whitney petented the cotton gin.`,
+    event: `Eli Whitney patented the cotton gin.`,
     year: 1794
   },
   {
