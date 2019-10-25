@@ -267,6 +267,10 @@ const history = [
     year: 1859
   },
   {
+    event: `Eli Whitney petented the cotton gin.`,
+    year: 1794
+  },
+  {
     event:
       'President Taft started the tradition of throwing the opening pitch for the MLB season. ⚾',
     year: 1910
